@@ -1,0 +1,11 @@
+.t-shirt-item {
+    border: 1px solid lightseagreen;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.t-shirt-item img {
+    height: 220px;
+    width: 200px;
+    border-radius: 10px;
+}
